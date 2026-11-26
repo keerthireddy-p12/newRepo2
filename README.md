@@ -1,30 +1,16 @@
 
-# Hi there 👋 I am Puppala Keerthi Reddy
+# Hi, I'm Keerthi Reddy 👋
 
-🎓 CSE Student | 📚 Learning & Building
+🎓 CSE Student
 
-I'm a Computer Science student who enjoys learning programming and exploring new technologies.
+## 🧑‍💻 Identity
+I am a Computer Science student interested in learning new technologies.
 
-## 🏃 Currently Learning
+## 🛠️ Skills
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,git,github)
 
-- Data Structures & Algorithms
-- C
-- C++
-- Java
-- Web Development
-- Git & GitHub
-
-## 🧱 Languages & Technologies
-
-![Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,mysql,git,github)
-
-## 🚀 Interested In
-
-- Problem Solving
-- Software Development
-- Web Development
-- Building small projects and learning through them
-
-## 🤝 Connect With Me
-
-- GitHub: [@keerthireddy-p12](https://github.com/keerthireddy-p12)
+## 🚀 Activities
+- Learning programming.
+- Practicing coding.
+- Building small projects.
+- Exploring new technologies.
