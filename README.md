@@ -1,18 +1,30 @@
 
-## 🛠️ My Skills
+# Hi there 👋 I am Puppala Keerthi Reddy
 
-### Programming Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
+🎓 CSE Student | 📚 Learning & Building
 
-### Web Development
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
+I'm a Computer Science student who enjoys learning programming and exploring new technologies.
 
-### Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
+## 🏃 Currently Learning
+
+- Data Structures & Algorithms
+- C
+- C++
+- Java
+- Web Development
+- Git & GitHub
+
+## 🧱 Languages & Technologies
+
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,mysql,git,github)
+
+## 🚀 Interested In
+
+- Problem Solving
+- Software Development
+- Web Development
+- Building small projects and learning through them
+
+## 🤝 Connect With Me
+
+- GitHub: [@keerthireddy-p12](https://github.com/keerthireddy-p12)
